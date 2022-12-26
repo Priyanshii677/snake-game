@@ -19,6 +19,12 @@ body {
   place-content: center;
 }
 
+h1{
+  font-family: "Equilibrium",monospace;
+  text-transform: uppercase;
+    -webkit-font-smoothing: antialiased;
+}
+
 .border {
   position: relative;
   width: 588px;
@@ -77,6 +83,8 @@ body {
 }
 .start {
   margin-top: 2rem;
+  margin-left: auto;
+  margin-right: auto;
 }
 .start > button {
   font-size: 1rem;

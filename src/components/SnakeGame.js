@@ -96,6 +96,7 @@ export default function App() {
       tabIndex='0'
       onKeyDown={(e) => moveSnake(e)}
     >
+      <h1>Welcome to retro snake game!!!!</h1>
       <div className='border'>
         {snake.map((snake, i) => (
           <Snake key={i} position={snake} />
