@@ -1,1 +1,1 @@
-Check out the live game here :point_right:  [https://priyanshii677.github.io/snake-game/] (retro snake game)
+Check out the live game here :point_right:  [retro snake game](https://priyanshii677.github.io/snake-game/).
